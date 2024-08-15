@@ -21,3 +21,4 @@
 
 This repository contains the code for an online shop e-commerce platform built using Django. It provides functionalities for managing product catalogs, implementing a shopping cart system, enabling order placement, and sending order confirmation emails. For detailed information, refer to the project documentation and source code.
 
+REMOVED
